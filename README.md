@@ -24,13 +24,7 @@ The goal of this assignment was to create an API for a social network web applic
 #### Step 7
 - Tested API endpoints using Insomnia.
 
-#### Result
-- See NoSql-Social-Network Preview here:
-- Preview: ![NoSql-Social-Network-Homework](<images/Screenshot 2024-02-04 at 2.46.47 PM.png>)
-- ![NoSql-Social-Network-Homework](<images/Screenshot 2024-02-04 at 2.47.22 PM.png>)
-- ![NoSql-Social-Network-Homework](<images/Screenshot 2024-02-04 at 2.47.34 PM.png>)
-- ![NoSql-Social-Network-Homework](<images/Screenshot 2024-02-04 at 2.47.49 PM.png>)
-- GitHub Link: (https://github.com/aqtagon/Nosql-Social-Network-API-Homework)
-- Demo Link: (https://www.youtube.com/watch?v=LyBkIE6zCqc)
 
-Note: Got assistance from Cuitlahuac Hernandez from class and used chatgpt and google for questions.
+- GitHub Link: 
+
+Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
