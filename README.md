@@ -25,6 +25,6 @@ The goal of this assignment was to create an API for a social network web applic
 - Tested API endpoints using Insomnia.
 
 
-- GitHub Link: 
+- GitHub Link: https://github.com/amnindersinghk
 
 Note: Got assistance from Cuitlahuac Hernandez and Ahmed Danawi from class and used chatgpt and google for questions.
